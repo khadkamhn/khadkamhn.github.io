@@ -1,0 +1,10 @@
+@charset "utf-8";
+/**
+Author	:	Mohan Khadka
+E-mail	:	contact@mohankhadka.com.np, khadkamhn@gmail.com
+**/
+@import url("normalize.css");
+@import url("global.css");
+@import url("main.css");
+@import url("../slide/slide.css");
+@import url("browser-detection.css");
